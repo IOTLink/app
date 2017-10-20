@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;fabric-sdk-go&gt;">
+    <CLASSES>
+      <root url="file://$USER_HOME$/work/src/github.com" />
+      <root url="file://$USER_HOME$/work/src/fabric-samples" />
+      <root url="file://$USER_HOME$/work/src/streamserver" />
+      <root url="file://$USER_HOME$/work/src/streamserver.v2" />
+      <root url="file://$USER_HOME$/work/src/app" />
+      <root url="file://$USER_HOME$/work/src/Untitled Folder" />
+      <root url="file://$USER_HOME$/work/src/streamserver.v3" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$USER_HOME$/work/src/github.com" />
+      <root url="file://$USER_HOME$/work/src/fabric-samples" />
+      <root url="file://$USER_HOME$/work/src/streamserver" />
+      <root url="file://$USER_HOME$/work/src/streamserver.v2" />
+      <root url="file://$USER_HOME$/work/src/app" />
+      <root url="file://$USER_HOME$/work/src/Untitled Folder" />
+      <root url="file://$USER_HOME$/work/src/streamserver.v3" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
